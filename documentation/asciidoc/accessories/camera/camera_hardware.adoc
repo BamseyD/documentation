@@ -1,5 +1,5 @@
 :figure-caption!:
-== About the Camera Modules
+== About the Camera Modules!
 
 There are now several official Raspberry Pi camera modules. The original 5-megapixel model was https://www.raspberrypi.com/news/camera-board-available-for-sale/[released] in 2013, it was followed by an 8-megapixel https://www.raspberrypi.com/products/camera-module-v2/[Camera Module 2] which was https://www.raspberrypi.com/news/new-8-megapixel-camera-board-sale-25/[released] in 2016. The latest camera model is the 12-megapixel https://raspberrypi.com/products/camera-module-3/[Camera Module 3] which was https://www.raspberrypi.com/news/new-autofocus-camera-modules/[released] in 2023. The original 5MP device is no longer available from Raspberry Pi. 
 
